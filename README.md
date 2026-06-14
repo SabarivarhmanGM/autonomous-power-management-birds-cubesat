@@ -209,6 +209,6 @@ The telemetry dataset used in this work was provided by the BIRDS Program and th
 
 Sabarivarhman G M
 
-Computer Science and Electrical Engineering
+Electrical and Computer Engineering
 
 Amrita Vishwa Vidyapeetham
