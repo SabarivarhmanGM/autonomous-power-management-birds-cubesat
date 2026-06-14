@@ -177,28 +177,6 @@ autonomous-power-management-birds-cubesat/
 
 ---
 
-## Applications
-
-* Autonomous satellite power management
-* CubeSat mission planning
-* Onboard decision support systems
-* Fault detection and diagnosis
-* Telemetry analytics
-* Spacecraft health monitoring
-
----
-
-## Future Work
-
-* Real-time onboard machine learning inference
-* Power demand forecasting
-* Satellite anomaly detection
-* Reinforcement learning based power scheduling
-* Edge AI deployment on CubeSat flight computers
-* Multi-satellite telemetry learning frameworks
-
----
-
 ## Acknowledgements
 
 The telemetry dataset used in this work was provided by the BIRDS Program and the Kyushu Institute of Technology (Kyutech). The authors of the original dataset are Adolfo Jara and Pooja Lepcha.
